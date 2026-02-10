@@ -6,7 +6,7 @@ This simulation code package is mainly used to reproduce a part of the results o
 
 [1] K. Feng, Z. Wan, A. Liao, W. Ma, L. Zhu, Z, Xiao, Z, Gao, and R, Zhang, "Deep learning based Channel Estimation and Beamforming in Movable Antenna Systems," submitted to IEEE Transactions on Vehicular Technology, 2026.
 
-Available at: https://arxiv.org/abs/xxxx.xxxx
+Available at: https://arxiv.org/abs/2602.07870
 
 The CE folder contains the initial channel estimation scheme, whose output is the estimated channel that serves as the input to the subsequent denoising network.
 
